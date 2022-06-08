@@ -24,3 +24,5 @@ no need to setting anything.
 Add "WEBGLINPUT_TAB" to Scripting Define Symbols.
 
 and check "Enable Tab Text" at WebGLInput. 
+
+webgl全屏支持中文输入模板见百度网盘unitywebgltemplate
